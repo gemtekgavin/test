@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <remote name="mygit" fetch="ssh://git@github.com:gemtekgavin/"/>
+
+        <default revision="master"  remote="mygit"/>
+
+        <project name="test"   path="hello"/>
+
+</manifest>
